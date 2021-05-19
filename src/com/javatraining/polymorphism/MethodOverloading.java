@@ -40,6 +40,7 @@ public class MethodOverloading {
 	MethodOverloading ml = new MethodOverloading();
 	  
 	int addition = ml.sum(2, 4, 6);
+	int addition1 = ml.sum(2, 4);
 	
 	System.out.println(addition);
 	  
