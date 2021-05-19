@@ -1,4 +1,4 @@
-package com.javatraining;
+package com.javatraining.helloworld;
 
 public class Person {
 
